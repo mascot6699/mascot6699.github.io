@@ -1,0 +1,30 @@
+body,html {
+	height: 100%;
+    width: 100%;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: 'Josefin Sans',sans-serif;
+    background: linear-gradient(30deg,#359096 0%,#355f96 50%, #3c3596 100%);
+
+}
+
+.header {
+	font-size: 40px;
+	color: rgb(255, 255, 255);
+	margin-top: 28vh;
+	margin-left: 15vw;
+}
+
+.header h1 {
+	margin: 1%;
+    font-size: 100%;
+    font-weight: 700;
+}
+
+.header h2 {
+    margin: 1%;
+    margin-left: 3%;
+    font-size: 85%;
+    font-weight: 300;
+}
+
