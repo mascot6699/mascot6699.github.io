@@ -1,8 +1,9 @@
 module.exports = {
     siteMetadata: {
-        title: 'Blogs from Umang Shukla',
-        author: 'Umang Shukla',
-        keywords: 'Umang Shukla, umang, shukla, senior software engineer, mascot6699, umangshucool',
+        defaultTitle: 'Blogs from Umang Shukla',
+        defaultDescription: 'Blogs from Umang Shukla',
+        defaultAuthor: 'Umang Shukla',
+        defaultKeywords: 'Umang Shukla, umang, shukla, senior software engineer, mascot6699, umangshucool',
         twitterUsername: '@mascot6699',
         siteUrl: 'https://mascot6699.github.io',
     },
