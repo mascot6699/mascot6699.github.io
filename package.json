@@ -1,0 +1,36 @@
+{
+    "name": "mascot6699.github.io",
+    "version": "1.0.0",
+    "private": true,
+    "description": "Blogs from Umang Shukla",
+    "author": "Umang Shukla",
+    "keywords": [
+        "gatsby",
+        "mascot6699",
+        "umang shukla"
+    ],
+    "scripts": {
+        "develop": "gatsby develop",
+        "start": "gatsby develop",
+        "build": "gatsby build",
+        "serve": "gatsby serve",
+        "clean": "gatsby clean",
+        "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md,css}\""
+    },
+    "dependencies": {
+        "@mdx-js/react": "^2.1.2",
+        "gatsby": "^4.24.0",
+        "gatsby-plugin-image": "^2.24.0",
+        "gatsby-plugin-mdx": "^4.1.0",
+        "gatsby-plugin-sharp": "^4.24.0",
+        "gatsby-source-filesystem": "^4.24.0",
+        "gatsby-transformer-sharp": "^4.24.0",
+        "prop-types": "^15.0.1",
+        "react": "^18.1.0",
+        "react-dom": "^18.1.0",
+        "react-helmet": "^6.1.0"
+    },
+    "devDependencies": {
+        "prettier": "^2.7.1"
+    }
+}

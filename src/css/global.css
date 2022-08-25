@@ -1,0 +1,41 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    overflow-x: hidden;
+    font-family: 'Josefin Sans', sans-serif;
+    background: linear-gradient(30deg, #359096 0%, #355f96 50%, #3c3596 100%);
+    color: rgb(255, 255, 255);
+}
+
+.header {
+    font-size: 30px;
+    margin-top: 10vh;
+}
+
+.centered {
+    text-align: center;
+}
+
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+h2 {
+    font-weight: 300;
+}
+
+a,
+a:visited,
+a:active,
+a:hover {
+    color: #fff !important;
+}
